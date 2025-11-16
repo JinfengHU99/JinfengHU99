@@ -1,4 +1,4 @@
-👋 Hi, I'm **Jinfeng HU** — a Data Scientist & NLP Engineer specializing in Natural Language Processing and Machine Learning, currently based in Paris, France.
+👋 Hi, I'm **Jinfeng HU** — a NLP Engineer specializing in Natural Language Processing and Machine Learning, currently based in Paris, France.
 
 🎓 I'm completing a Master's degree in Computational Linguistics, with over 3 years of hands-on experience working on real-world NLP and AI projects in both research labs and companies.
 
