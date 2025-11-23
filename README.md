@@ -7,6 +7,6 @@
 🌱 I'm passionate about turning unstructured text into actionable insights and constantly learning about **LLMs**, **semantic search**, and **data-centric AI**.
 
 
-📄 [View my CV (PDF)](HU%20Jinfeng%20-%20CV.pdf)  
+📄 [View my CV (PDF)](HU%20Jinfeng_CV.pdf)  
 💼 [LinkedIn – jinfeng-hu](https://www.linkedin.com/in/jinfeng-hu)  
 📫 Reach me at [jinfenghu99@outlook.com](mailto:jinfenghu99@outlook.com)
